@@ -1,8 +1,9 @@
 {
-  "name": "js-fireworks",
+  "name": "fireworks",
   "license": "MIT",
   "repository": "git://github.com/dhm80/JsFireworks.git",
   "keywords": [
+    "js",
     "javascript",
     "firework",
     "fireworks"
