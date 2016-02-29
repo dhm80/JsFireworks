@@ -1,11 +1,24 @@
 {
-  "name": "fireworks",
+  "name": "jquery-fireworks",
+  "description": "Beautiful HTML5 canvas firework build with jQuery",
   "license": "MIT",
-  "repository": "git://github.com/dhm80/JsFireworks.git",
   "keywords": [
-    "js",
+    "jquery",
     "javascript",
+    "js",
     "firework",
     "fireworks"
-  ]
+  ],
+  "ignore": [
+    "/.*",
+    "*.md",
+    "bower.json",
+    "index.html"
+  ],
+  "main": [
+    "js/fireworks.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
 }
